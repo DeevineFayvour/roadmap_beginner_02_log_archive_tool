@@ -40,9 +40,7 @@ cat ~/log_archives/archive_log.txt
 ## 📌 Notes
 - The script **does not delete logs** after archiving. If you want automatic cleanup, modify the script.
 - Change the `ARCHIVE_DIR` variable in `log-archive.sh` to customize the archive location.
-
-#### The project was gotten from:
-- https://roadmap.sh/projects/log-archive-tool
+- The project was taken from: https://roadmap.sh/projects/log-archive-tool
 
 ## 🔹 Author
   Divine 🚀
